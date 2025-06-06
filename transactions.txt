@@ -1,0 +1,23 @@
+------------------------------------------------------------
+Transaction Date: Fri Jun 06 09:47:27 GMT 2025
+Cashier: mark_bagayao@gmail.com
+Items:
+- Chicken ni Joy | Quantity: 2 | Unit Price: Php 99.00 | Total: Php 198.00
+- Jolly Spaghetti ni mark | Quantity: 4 | Unit Price: Php 75.00 | Total: Php 300.00
+- Burger Steak na may kanin | Quantity: 2 | Unit Price: Php 90.00 | Total: Php 180.00
+- Pinoy Fries | Quantity: 6 | Unit Price: Php 45.00 | Total: Php 270.00
+Total Amount: Php 758.40
+------------------------------------------------------------
+
+------------------------------------------------------------
+Transaction Date: Fri Jun 06 09:48:28 GMT 2025
+Cashier: mark_bagayao@gmail.com
+Items:
+- Jolly Spaghetti ni mark | Quantity: 3 | Unit Price: Php 75.00 | Total: Php 225.00
+- Coke Float | Quantity: 2 | Unit Price: Php 39.00 | Total: Php 78.00
+- Yummy burger | Quantity: 2 | Unit Price: Php 55.00 | Total: Php 110.00
+- Chicken ni Joy | Quantity: 3 | Unit Price: Php 99.00 | Total: Php 297.00
+- Jolly Spaghetti ni mark | Quantity: 1 | Unit Price: Php 75.00 | Total: Php 75.00
+Total Amount: Php 785.00
+------------------------------------------------------------
+
